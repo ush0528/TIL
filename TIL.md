@@ -29,6 +29,7 @@
 
      HEAD 옮기기: git switch --detach (위치)
 
-  4. <img width="1142" height="402" alt="image" src="https://github.com/user-attachments/assets/1808853b-e7ae-4549-b161-328336539f28" />
+  4. HEAD~n의 의미
+     <img width="1142" height="402" alt="image" src="https://github.com/user-attachments/assets/1808853b-e7ae-4549-b161-328336539f28" />
 
 - 내일 할 것: learn git branching 3-4 단계
