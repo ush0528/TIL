@@ -18,9 +18,9 @@
 
   5. 작업 되돌리기
      
-     5-1. git reset HEAD~(되돌아갈커밋수): 예전 커밋으로 브랜치를 옮김(local)
+     5-1. git reset HEAD~(돌아갈커밋): 예전 커밋으로 브랜치를 옮김(local)
   
-     5-2. git revert HEAD~(되돌아갈커밋수): 브랜치의 끝에 새로운 커밋(전 버전) 추가(pushed)
+     5-2. git revert HEAD~(취소할커밋): 브랜치의 끝에 새로운 커밋(전 버전) 추가(pushed)
      
 - 막힌 것:
   1. git switch --detach를 하고 바로 커밋하면, HEAD가 특정 커밋에 붙고 브랜치에 속하지 못한다.
